@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: top.lhylxl.springboot03config02.SpringBoot03Config02ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.256 s - in top.lhylxl.springboot03config02.SpringBoot03Config02ApplicationTests
