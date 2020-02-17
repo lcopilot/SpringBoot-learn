@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: MuGe
+Build-Jdk: 1.8.0_211
+Implementation-Title: spring-boot-07-web-jsp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: top.lhylxl
+Main-Class: ${start-class}
+
